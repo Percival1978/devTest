@@ -15,7 +15,7 @@ class Block extends Component {
   }
   render() {
     return (
-      <div onClick={this.handleClick} className={this.state.isActive ? 'block': 'active block'}>
+      <div onClick={this.handleClick} className={this.state.isActive ? 'block': 'active'}>
         {this.props.children}
       </div>
     );

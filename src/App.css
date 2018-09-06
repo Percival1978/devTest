@@ -41,13 +41,12 @@ section {
 }
 
 .block {
-  height: 22.5vh;
+  height: 25%;
   transition: height 0.1s ease-in;
 }
 
 .active {
  height: 90vh; 
- line-height: 90vh;
 }
 
 .closed {
