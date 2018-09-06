@@ -6,7 +6,6 @@ class Block extends Component {
     super(props);
     this.state = {isActive: true};
     this.handleClick = this.handleClick.bind(this);
-    this.state.isActive ? '' : 'is active!';
   }
 
   handleClick() {

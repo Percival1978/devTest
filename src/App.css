@@ -30,7 +30,7 @@ main {
   background-color: #000;
   width: 25vw;
   line-height: 10vh;
-  transition: all 0.2s ease;
+  transition: width 0.2s ease;
   position: relative;
 }
 
