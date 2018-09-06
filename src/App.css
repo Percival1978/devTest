@@ -41,7 +41,7 @@ section {
 }
 
 .block {
-  height: 25%;
+  height: 22.5vh;
   transition: height 0.1s ease-in;
 }
 
