@@ -1,4 +1,4 @@
-To run test
+To run test:
 
 cd devTest
 npm start
